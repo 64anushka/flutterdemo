@@ -1,0 +1,103 @@
+Create table demodata ( srno int, uid varchar(7), local_name varchar(75), scientific_name varchar(75));
+	
+Insert into demodata values
+(1,'A1/6','Kala Kuda','Wrightia tinctoria '),
+
+(2,'A2/3','Bamboo',	'Bambusoideae'),
+
+(3	,'A2/7','Chafa/ Champa','Magnolia champaca'),
+
+(4	,'A3/14','Bakul','Mimusops elengi'),
+
+(5	,'A3/9	','Vavala' ,'Holoptelea integrifolia'),
+
+(6	,'A4/2	','Kanchan','Bauhinia variegata'),
+
+(7,'A5/2','Kailasapati','couroupita guianensis'),
+
+(8,'A6/6','Agave/ Country Plant','Agave americana'),
+
+(9,'A6/21','Kawali','Cryptolepis buchananii'),
+
+(10	,'B2/2','Amaltas/Bahawa','Cassia fistula'),
+
+(11	,'B5/1	','Pride of India/Tamhan',	'Lagerstroemia speciosa'),
+
+(12	,'B6/1','Chinch/Imli',	'Tamarindus indica'),
+
+(14	,'B6/3','Neelmohar',	'Jacaranda mimosifolia'),
+
+(15	,'B6/4','Ajaan','Ehretia laevis' ),
+
+(16	,'B6/6','Putranjiva',	'Drypetes roxburghii'),
+
+(17	,'B6/8','Wakeri Climber',	'Caesalpinia digyna'),
+
+(18	,'C1/4','Chandni /Vallaris',	'vallaris heynei'),
+
+(19	,'C2/2','Subabul','Leucaena leucocephala'),
+
+(20	,'C5/2','Buch/ Kawal Nimb','Millingtonia hortensis'),
+
+(21	,'C5/3','Giripushpa','Gliricidia sepium'),
+
+(22	,'C5/10','Black Ixora','Ixora  nigricans'),
+
+(23	,'C6/9','Ramphal','Annona reticulata'),
+
+(24	,'C6/11','Ritha	','Sapindus mukorossi'),
+
+(25	,'D2/2','Tambadsheng','Peltophorum pterocarpum'),
+
+(26	,'D3/2','Dracaena','Dracaena'),
+
+(27	,'D3/4','Jaswand','Hibiscus rosa-sinensis'),
+
+(28	,'D6/3','Gulmohar','Delonix regia'),
+
+(29	,'E1/3','Bhutia',	'Cassine glauca'),
+
+(30	,'E1/5','Hoop Pine','Araucaria cunninghamii'),
+
+(31	,'E2/1','Chandan','Santalum album'),
+
+(32	,'E4/3','Katesawar','Bombax Ciiba'),
+
+(33	,'E5/2','Kanchan Veil','Bauhinia variegata'),
+
+(34	,'E6/1','Shanbasur','Caesalpinia'),
+
+(35	,'E6/5','Rudrabshi','Gaguma Latifolia'),
+
+(36	,'E6/6','Papda','Gardenia Latifolia'),
+
+(37	,'F1/1','Bouganivillea','Bougainvillea Spectabilis'),
+
+(38	,'F1/2','Bamboo/Velin','Dendrocalamus Stricks'),
+
+(39	,'F2/1','Moi','Lannea Coromandelica'),
+
+(40	,'F2/5','Abulki Veli/Creeper','Alagmus Latifolia'),
+
+(41	,'F3/1','Red Chafa','Plumeria Rudra'),
+
+(42	,'F3/3','Resham Dhavada','Anogeissus Sericea'),
+
+(43	,'F3/9','Samudra Ashok','Argyreia Nervosa'),
+
+(44	,'F6/3','Palas','Butea Monosperma'),
+
+(45	,'F6/5','Karanj','Pongamia Pinnata'),
+
+(46	,'F6/13','Fire Bush','Hemelia Patens'),
+
+(47	,'G1/1','Giant Bamboo','Dendrocalamus Giganteus'),
+
+(48	,'G6/1','Beeja','Pterocapus Marsupium'),
+
+
+(49	,'G6/7','Kashid','Seena Siamea'),
+
+(50	,'H2/3','Neem','Azadiracta Indica');
+
+D:\project\5th sem demo project\database.js
